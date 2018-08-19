@@ -62,6 +62,6 @@
                 <xmlOutput>true</xmlOutput>
             </configuration>
         </plugin>
-   <plugins> 
+   </plugins> 
   </reporting>
 </project>
